@@ -52,7 +52,7 @@ The command above will search for results on 3 first pages of google.
 
 # Tool Internals
 
-The tool actually is a scraper that works with selenium. It uses a google dork to extract the LinkedIn url's and then it exctracts data from them. As you may know Linkedin has different subdomains for country-s.
+The tool actually is a scraper that works with selenium. It uses a google dork to extract the LinkedIn url's and then it extracts data from them. As you may know Linkedin has different subdomains for country-s.
 
       For example : al.linkedin.com is for Albania, uk.linkedin.com is for United Kingdom etc. 
 
